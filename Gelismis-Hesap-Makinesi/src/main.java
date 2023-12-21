@@ -108,6 +108,6 @@ public class main {
             }
 
         }
-        System.out.println("Güle Güle!");
+        System.out.println(" Güle Güle! ");
     }
 }

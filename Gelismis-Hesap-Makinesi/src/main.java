@@ -95,15 +95,15 @@ public class main {
                     div(a,b);
                     break;
                 case 5:
-                    System.out.println("Üs Hesabı : )" + power(a,b));
+                    System.out.println("Üs Hesabı :  " + power(a,b));
                     break;
                 case 6:
-                    System.out.println("Mod İşlemi : " + mod(a,b));
+                    System.out.println("Mod İşlemi :  " + mod(a,b));
                 case 7:
                     calc(a,b);
                     break;
                 default:
-                    System.out.println("Hatalı bir işlem girdiniz!");
+                    System.out.println("Hatalı bir işlem girdiniz! ");
 
             }
 
